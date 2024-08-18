@@ -1,5 +1,5 @@
 import cbpro
-import authcredentials.py
+import auth_credentials.py
             
 sand_url = "https://api-public.sandbox.pro.coinbase.com"
 url = 'https://api.pro.coinbase.com/'
